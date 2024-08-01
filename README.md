@@ -37,12 +37,14 @@
     4. 크롤링 : Selenium(웹크롤링 자동화), BeautifulSoup(웹페이지 정제)
     5. 머신러닝/딥러닝 : Scikit-Learn(가장 간단한 머신러닝), MS CNTK, Theano, Keras(최초의 딥러닝), TensorFlow(제일 유명, Keras 포함), PyTorch(파이토치, 페이스북에서 만듦)
 
+**ctrl shift p : create 새 jupyternotebook 만들기**
+
 - 빅데이터 학습
     - 실습자료, 파이썬 기본리뷰, 빅데이터 분석 기초학습
-    - [넘파이]()
-    - [판다스]()
-    - [맷플롭립]() 
-    - ctrl shift p : create 새 jupyternotebook 만들기 
+    - [넘파이](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day01/01numpy_basic.ipynb)
+    - [판다스](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day01/02pandas_basic.ipynb)
+    - [맷플롭립](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day01/03matplotlib_basic.ipynb) 
+    
 ## 2일차 
 
 
