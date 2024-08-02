@@ -48,14 +48,13 @@
 ## 2일차 
 - 빅데이터 학습
     - 기초학습, 크롤링 관련 
-    - [뷰티풀수프]
-    - [셀레니움]  
+    - [뷰티풀수프](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day02/04beatifulsoup_basic.ipynb)
+    - [셀레니움](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day02/05selenium_basic.ipynb) 
 
 - 빅데이터 실습
-    - [스타벅스 입지 분석]
+    - [스타벅스 입지 분석](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day02/06starbucks_analysis.ipynb)
 
-
-#### 데이터 전처리 
+#### *데이터 전처리 
 - 데이터로 통계를 낼 때 문제가 없도록 데이터를 사전에 처리 해주는 것 
 - 데이터 전처리가 빅데이터 분석 전체 프로젝트의 50%를 차지할 정도로 비중이 높다. 
 - 전처리 케이스
