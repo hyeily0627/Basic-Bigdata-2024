@@ -45,6 +45,7 @@
     - [판다스](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day01/02pandas_basic.ipynb)
     - [맷플롭립](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day01/03matplotlib_basic.ipynb) 
     
+
 ## 2일차 
 - 빅데이터 학습
     - 기초학습, 크롤링 관련 
@@ -53,6 +54,7 @@
 
 - 빅데이터 실습
     - [스타벅스 입지 분석](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day02/06starbucks_analysis.ipynb)
+
 
 #### *데이터 전처리 
 - 데이터로 통계를 낼 때 문제가 없도록 데이터를 사전에 처리 해주는 것 
@@ -103,33 +105,40 @@
     - 이전에도 예측, 예상을 기존의 EDA 방식으로 사용했음
     - 머신러닝, 딥러닝이 예측값의 정확도가 훨씬 높기 때문에 사용
 
-## 4일차
+
+## 4일차(2024-08-06)
 - 머신러닝, 딥러닝
-    - [개념]()
-    - [파이토치 개요 및 설치]()
+    - 인공지능 개념 학습
+    - 파이토치 기본 설명과 CPU/GPU 라이브러리 설치 
+    - [개념](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day4/dba08_ml_dl_concept.ipynb)
+    - [파이토치 개요 및 설치](https://github.com/hyeily0627/Basic-Bigdata-2024/blob/main/day4/dba09_pytorch_start.ipynb)
+
+
+## 5일차(2024-08-07) 
+- 머신러닝, 딥러닝 
+    - Machine Learning -> Deep Learning -> Natural Language Processing
     - [회귀분석]()
     - [...]()
 
 
-
-## 5일차 
-
-
-
-
 ## 6일차 
-
-
+- 머신러닝, 딥러닝
+    - 타이타닉 생존자 예측(계속)
+    - 사이킷런(로지스틱), 파이토치 생존자 예측 비교 
+    - [ML회귀분석]dba11 
 
 
 ## 7일차 
-
-
+- 머신러닝, 딥러닝
+    - CNN(Convolutioanal NN)
+    - [이미지분류] dba 12 
 
 
 ## 8일차 
-
-
+- 머신러닝, 딥러닝 
+    - 객체탐지(Object Detection)
+    - OpenCV, Yolov8
+    - 
 
 
 ## 9일차 
